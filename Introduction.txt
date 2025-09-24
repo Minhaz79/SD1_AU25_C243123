@@ -1,0 +1,6 @@
+Course Code : CSE-2340
+Course Name : Software Development I
+Name        : MD. Minhaz Uddin
+ID          : C243123
+Semester    : 3rd
+Section     : 3AM
